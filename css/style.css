@@ -28,7 +28,7 @@ header,
 
 #espacio {height: 80px;}
 
-img {
+.logo {
   position: absolute;
   left: 220px;
   top: -5px;;
