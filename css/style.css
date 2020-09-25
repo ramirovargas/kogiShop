@@ -6,7 +6,7 @@ header,
 }
 
 #intro {
-    background: url("https://www.annuairebiledi.com/img/content/home-slide-img5.jpg")no-repeat center center fixed;
+    background: url("https://s1.1zoom.me/b5050/433/Tropics_Houses_Kogi_479592_3840x2400.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -33,4 +33,11 @@ header,
   left: 220px;
   top: -5px;;
   width: 10%;
+}
+
+.customh {
+  position: absolute;
+  left: 650px;
+  top: 30px;;
+  width: 20%;
 }
