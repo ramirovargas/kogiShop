@@ -41,3 +41,30 @@ header,
   top: 30px;;
   width: 20%;
 }
+
+.standarimg {
+  position: absolute;
+  left: 180px;
+  top: -5px;;
+  width: 50%;
+}
+
+.premiunimg{
+  position: absolute;
+  left: 480px;
+  top: -5px;;
+  width: 50%; 
+}
+
+
+.deluxeimg{
+  position: absolute;
+  left: 780px;
+  top: -5px;;
+  width: 50%;
+}
+
+.sizeDiv{
+  height: 550px;
+  width: 50%;
+}
